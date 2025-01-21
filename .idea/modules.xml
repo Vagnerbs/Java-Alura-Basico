@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/desafioContaCorrente.iml" filepath="$PROJECT_DIR$/desafioContaCorrente.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/primeiroprojeto.iml" filepath="$PROJECT_DIR$/primeiroprojeto.iml" />
+>>>>>>> d816eb5b2fcb417045616b27cdcafc37c5783049
     </modules>
   </component>
 </project>
